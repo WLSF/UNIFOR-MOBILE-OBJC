@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>titulo</key>
+		<string>ALUNOS DE FISIOTERAPIA TÊM A CHANCE DE ESTAGIAR EM JANEIRO </string>
+		<key>imagem</key>
+		<string>http://www.unifor.br/images/stories/Noticias/fisioterapia_destaque.jpg</string>
+		<key>conteudo</key>
+		<string>Neste mês de janeiro, os alunos do curso de Fisioterapia da Unifor terão a oportunidade de vivenciar na prática as teorias aprendidas em sala de aula. Entre os dias 7 e 25, serão realizados estágios não obrigatórios em clínicas particulares e no Nami (Núcleo de Atenção Médica Integrada da Unifor). Para participar, o aluno deve escolher local e turno e efetuar sua inscrição online. Os estágios serão realizados pela manhã, das 7h30 às 11h15, ou à tarde, das 13h30 às 17h15.
+</string>
+		<key>publicacao</key>
+		<date>2012-11-26T20:22:23Z</date>
+		<key>tipo</key>
+		<string>noticia</string>
+	</dict>
+	<dict>
+		<key>titulo</key>
+		<string>UNIFOR COM SELEÇÃO ABERTA PARA PROFESSORES</string>
+		<key>imagem</key>
+		<string>http://www.unifor.br/images/stories/Noticias/professor.jpg</string>
+		<key>conteudo</key>
+		<string>A Unifor está com inscrições abertas para seleção de professores. São seis editais: Tecnológicas, Direito, Saúde, Odontologia, Farmácia e Enfermagem. Os candidatos têm até as 11h30 do dia 4 de janeiro de 2013 para se inscrever. 
+
+As inscrições devem ser realizadas na Vice-Reitoria de Ensino de Graduação da Unifor, que funciona no prédio da Reitoria (1º andar). O horário de atendimento é de segunda a sexta-feira, das 8h às 11h30 e das 14h às 20h. </string>
+		<key>publicacao</key>
+		<date>2012-11-26T17:45:23Z</date>
+		<key>tipo</key>
+		<string>noticia</string>
+	</dict>
+	<dict>
+		<key>titulo</key>
+		<string>UNIFOR TORNA-SE MEMBRO DO GLOBAL U8 CONSORTIUM</string>
+		<key>imagem</key>
+		<string>http://www.unifor.br/images/stories/Noticias/GU8-destaque.jpg</string>
+		<key>conteudo</key>
+		<string>A Universidade de Fortaleza é a mais nova instituição a tornar-se membro efetivo do Global U8 Consortium (GU8), um consórcio educacional composto pelas principais universidades localizadas em cidades marítimas, costeiras e portuárias. Entre os países integrantes do GU8 estão Austrália, China, França, Israel, Coréia do Sul, Reino Unido e Estados Unidos.O ingresso da Unifor deu-se durante a 7ª reunião do Conselho de Presidentes do Global U8 Consortium, que aconteceu nos dias 22 e 23 de novembro de 2012, na INHA University, em Seul, na Coréia do Sul.</string>
+		<key>publicacao</key>
+		<date>2012-05-06T14:42:45Z</date>
+		<key>tipo</key>
+		<string>noticia</string>        
+	</dict>
+	<dict>
+		<key>titulo</key>
+		<string>QUER SABER MAIS SOBRE O CIÊNCIA SEM FRONTEIRAS?</string>
+		<key>imagem</key>
+		<string>http://www.unifor.br/images/stories/Noticias/intercambio_165x71.jpg</string>
+		<key>conteudo</key>
+		<string>Você sabe o que é o Ciência sem Fronteiras? No dia 11 de dezembro, próxima terça-feira, será realizada uma palestra no auditório A2, a partir das 19 horas, para esclarecer todas as dúvidas dos alunos sobre esse programa de bolsas de estudo para graduação sanduíche no exterior, financiado pelo CNPq e pela Capes. 
+O evento é uma realização da Divisão de Pesquisa, em conjunto com a Assessoria de Assuntos Internacionais da Unifor. Caso tenha interesse em estudar em outro país, aproveite a oportunidade para saber sobre como se inscrever. Há bolsas para Alemanha, Austrália, Canadá, Coreia do Sul, Espanha, Estados Unidos, França, Holanda, Hungria, Itália, Japão, Noruega, Portugal, Reino Unido e Suécia.</string>
+		<key>publicacao</key>
+		<date>2012-09-13T11:11:23Z</date>
+		<key>tipo</key>
+		<string>evento</string>
+	</dict>
+	<dict>
+		<key>titulo</key>
+		<string>TRABALHOS E PALESTRAS MARCAM O DIA DO FONOAUDIÓLOGO</string>
+		<key>imagem</key>
+		<string>http://www.unifor.br/images/stories/Eventos/dia-do-fonoaudiologo.jpg</string>
+		<key>conteudo</key>
+		<string>O curso de Fonoaudiologia encerra as atividades deste semestre em meio às comemorações do Dia do Fonoaudiólogo - 9 de dezembro. A programação acontece de 10 a 12 de dezembro.</string>
+		<key>publicacao</key>
+		<date>2012-01-23T05:12:23Z</date>
+		<key>tipo</key>
+		<string>evento</string>
+	</dict>
+	<dict>
+		<key>titulo</key>
+		<string>PALESTRAS, RODAS DE CONVERSAS E VISITAS TÉCNICAS</string>
+		<key>imagem</key>
+		<string>http://www.unifor.br/images/stories/Eventos/pos-gerando-valor.jpg</string>
+		<key>conteudo</key>
+		<string>A Unifor realiza, nos meses de novembro e dezembro, uma série de eventos direcionados a alunos da Pós-Graduação Lato Sensu e demais interessados em ingressar ou conhecer mais sobre os cursos. As palestras, rodas de conversas e visitas técnicas envolvem cursos de especialização atualmente em oferta pela Universidade de Fortaleza. Entre eles, Arquitetura de Interiores, Direito Ambiental, Direito Internacional, Gestão Ambiental, Gestão Comercial, Gestão Empresarial e Saúde Coletiva.</string>
+		<key>publicacao</key>
+		<date>2012-10-16T15:22:23Z</date>
+		<key>tipo</key>
+		<string>aviso</string>
+	</dict>
+	<dict>
+		<key>titulo</key>
+		<string>ATLETA UNIFOR HOMENAGEADA EM PRÊMIO BRASIL OLÍMPICO</string>
+		<key>imagem</key>
+		<string>http://www.unifor.br/images/stories/Esporte/premiobrasilolimpico.jpg</string>
+		<key>conteudo</key>
+		<string>O Comitê Olímpico Brasileiro (COB) realiza, no dia 18 de dezembro, o Prêmio Brasil Olímpico, em solenidade no Theatro Municipal do Rio de Janeiro. Maior festa de premiação do esporte brasileiro, o evento este ano tem como tema ‘Rio – A vez de todos’, em alusão aos Jogos Olímpicos Rio 2016. Entre os atletas que serão homenageados, está a atleta de atletismo da Unifor Gilailce Trigueiro Assis, aluna do curso de Educação Física.Na tradicional festa de gala do esporte brasileiro serão premiados os melhores atletas de 2012, no masculino e no feminino, os melhores em cada uma das 43 modalidades nos Jogos Olímpicos Londres, além de outras categorias especiais: Melhor Técnico Individual e Coletivo; Troféu Adhemar Ferreira da Silva; Melhores Atletas das Olimpíadas Escolares e Universitárias; além de uma homenagem especial aos medalhistas dos jogos olímpicos.</string>
+		<key>publicacao</key>
+		<date>2012-10-18T10:32:21Z</date>
+		<key>tipo</key>
+		<string>aviso</string>
+	</dict>
+	<dict>
+		<key>titulo</key>
+		<string>GINÁSIO DA UNIFOR RECEBE O NOVO BASQUETE BRASIL</string>
+		<key>imagem</key>
+		<string>http://www.unifor.br/images/stories/Esporte/nbb_destaque.jpg</string>
+		<key>conteudo</key>
+		<string>O Ginásio Poliesportivo da Unifor está pronto para receber o Novo Basquete Brasil (NBB). O centro da quadra principal já leva o símbolo da competição, tabelas estão montadas e o garrafão marcado. Nesta quinta-feira, 6 de dezembro, o Sky/Basquete Cearense estreia em casa.No geral, este é o terceiro jogo da equipe, que enfrenta a Liga Sorocabana às 20h (horário local). Após duas derrotas nas duas primeiras partidas no NBB, para Uberlândia e Franca, o jogo em casa pode representar um recomeço para a equipe.</string>
+		<key>publicacao</key>
+		<date>2012-07-26T21:22:23Z</date>
+		<key>tipo</key>
+		<string>noticia</string>
+	</dict>
+	<dict>
+		<key>titulo</key>
+		<string>COPA INTERNACIONAL DE JUDÔ É REALIZADA NA UNIFOR</string>
+		<key>imagem</key>
+		<string>http://www.unifor.br/images/stories/Esporte/judo-copa-internacional-destaque.jpg</string>
+		<key>conteudo</key>
+		<string>O Ginásio Poliesportivo da Unifor é sede, de 15 a 17 de novembro, da Copa Internacional Cidade de Fortaleza de Judô, que reúne cerca de 800 atletas do Brasil, Cuba, Itália, Estados Unidos e Estônia.A competição está dividida em oito categorias. São elas: festival, sub-13, sub-15, sub-17, sub-20, sênior, master e absoluto. As lutas começam a partir das 9h.O evento, que contará com a participação de 32 associações do Ceará, é realizado pela Federação Cearense de Judô (Fecju) e tem apoio da Confederação Brasileira de Judô (CBJ), além de fazer parte do calendário nacional da modalidade.</string>
+		<key>publicacao</key>
+		<date>2012-06-17T20:23:43Z</date>
+		<key>tipo</key>
+		<string>aviso</string>
+	</dict>
+</array>
+</plist>
