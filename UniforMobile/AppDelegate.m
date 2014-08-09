@@ -2,8 +2,8 @@
 //  AppDelegate.m
 //  UniforMobile
 //
-//  Created by aluno-r17 on 05/08/14.
-//  Copyright (c) 2014 aluno-r17. All rights reserved.
+//  Created by Willian Luigi on 05/08/14.
+//  Copyright (c) 2014 CODE.ME. All rights reserved.
 //
 
 #import "AppDelegate.h"
